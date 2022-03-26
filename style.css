@@ -1,6 +1,12 @@
+body{
+    color: #203239;
+   
+}
+
 header{
-    background-color: green;
+    background-color: #141E27;
     text-align: center;
+    color: #EEEDDE;
     
 }
 .back-img{
@@ -16,7 +22,8 @@ header{
 }
 footer{
     height: 10vh;
-    background-color: green;
+    background-color: #141E27;
+    color: #E0DDAA;
 }
 
 
@@ -26,6 +33,9 @@ footer{
     margin: 50%;
     height: 60%;
     width:125%;
+}
+.card{
+    background-color:#EEEDDE;
 }
 
 
@@ -40,12 +50,12 @@ footer{
 }
 
 .img-car-side{
-    outline: 2px black solid;
+    
 }
 
 
 .img-car-center{
-    outline: 2px black solid;
+  
 }
 
 .mdi{
@@ -58,9 +68,10 @@ footer{
     
 }
 
-.second-elem{
-    background-color: green;
-}
 
+.second-elem{
+    background-color:#141E27;
+    color:#EEEDDE;
+}
 
 
