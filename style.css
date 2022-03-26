@@ -1,0 +1,66 @@
+header{
+    background-color: green;
+    text-align: center;
+    
+}
+.back-img{
+    background-image: url('https://wallpaperaccess.com/full/90278.jpg');
+    display: flex;
+    width: 100%;
+    
+}
+.row{
+   
+    
+    text-align: center;
+}
+footer{
+    height: 10vh;
+    background-color: green;
+}
+
+
+
+.input-field{
+    background-color: whitesmoke;
+    margin: 50%;
+    height: 60%;
+    width:125%;
+}
+
+
+
+
+.text-field{
+    width:40%;
+    /* height: 20em; */
+    background-color: blanchedalmond;
+    z-index:20;
+    
+}
+
+.img-car-side{
+    outline: 2px black solid;
+}
+
+
+.img-car-center{
+    outline: 2px black solid;
+}
+
+.mdi{
+    color:gray;
+    font-size: xx-large;
+}
+
+.img-text{
+    background-color: none;
+    
+}
+
+.second-elem{
+    background-color: green;
+}
+
+
+
