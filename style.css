@@ -1,77 +1,103 @@
+
 body{
-    color: #203239;
+    color: #8c8e75;
+    font-family: 'Noto Sans TC', sans-serif;
    
+}
+
+.form-control{
+    background-color: #203239;
+    color: #de8731;
 }
 
 header{
     background-color: #141E27;
     text-align: center;
-    color: #EEEDDE;
+    color: #de8731;
     
 }
 .back-img{
-    background-image: url('https://wallpaperaccess.com/full/90278.jpg');
+    background-image: url('https://www.gamewallpapers.com/download.php?img=wallpaper_tribes_2_01_1600.jpg');
     display: flex;
     width: 100%;
-    
+    background-size: cover;
 }
 .row{
-   
-    
     text-align: center;
+}
+
+.input-contain{
+    color: #203239;
+}
+
+.what-a-bearish-failed-way-to-make-a-line{
+    height: 100%;
+    width: 2%;
+    background-color: aqua;
 }
 footer{
     height: 10vh;
     background-color: #141E27;
-    color: #E0DDAA;
+    color: #121211;
 }
 
-
-
-.input-field{
-    background-color: whitesmoke;
-    margin: 50%;
-    height: 60%;
-    width:125%;
-}
 .card{
-    background-color:#EEEDDE;
+    background-color:#8c8e75;
+}
+
+.btn{
+    background-color: #203239;
+    color: #de8731;
+}
+
+.over-img{
+    color:aliceblue
 }
 
 
 
 
 .text-field{
-    width:40%;
-    /* height: 20em; */
-    background-color: blanchedalmond;
+   
+    
+    background-color: #8c8e75;
     z-index:20;
     
 }
 
-.img-car-side{
-    
-}
 
-
-.img-car-center{
-  
-}
 
 .mdi{
-    color:gray;
-    font-size: xx-large;
+    color:white;
+    font-size: x-large;
+    margin-left: 1em;
 }
 
 .img-text{
     background-color: none;
+    color:aqua;
     
 }
 
 
 .second-elem{
     background-color:#141E27;
-    color:#EEEDDE;
+    color:#de8731;
+}
+.alt-elem{
+    color: #203239;
 }
 
+.img-car-side{
+    background-color: #de8731;
+    color:#203239;
+}
+
+.img-car-center{
+    background-color: #203239;
+}
+
+.img-car-side:hover{
+    background-color: #8c8e75;
+}
 
